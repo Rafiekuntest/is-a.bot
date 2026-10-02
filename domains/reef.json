@@ -3,6 +3,6 @@
         "username": "Rafiekuntest"
     },
     "records": {
-        "CNAME": "reef-dev.vercel.app"
+        "CNAME": "reef-proxy.pages.dev"
     }
 }
